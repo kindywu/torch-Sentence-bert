@@ -1,0 +1,3 @@
+model
+docker/sentence_Transformer_BERT.mar
+handler/pytorch_model.bin

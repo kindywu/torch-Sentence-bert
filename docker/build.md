@@ -1,0 +1,1 @@
+docker build -t ptserve-sbert:v1 .
